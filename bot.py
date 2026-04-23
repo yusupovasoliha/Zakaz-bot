@@ -3,7 +3,7 @@ from aiogram.types import Message, ReplyKeyboardMarkup, KeyboardButton
 from aiogram.utils import executor
 
 API_TOKEN = "8275940139:AAHaj-7JWWWIvTeO7TH-ii32IBTR1easnCI"
-CHANNEL_ID = "@https://t.me/zakazlar_channel"
+CHANNEL_ID = -1003983884901
 ADMIN_ID = 8076480934
 
 bot = Bot(token=API_TOKEN)
