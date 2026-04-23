@@ -2,9 +2,9 @@ from aiogram import Bot, Dispatcher, types
 from aiogram.types import Message, ReplyKeyboardMarkup, KeyboardButton
 from aiogram.utils import executor
 
-API_TOKEN = "TOKEN"
-CHANNEL_ID = "@kanal_username"
-ADMIN_ID = 123456789
+API_TOKEN = "8275940139:AAHaj-7JWWWIvTeO7TH-ii32IBTR1easnCI"
+CHANNEL_ID = "@https://t.me/zakazlar_channel"
+ADMIN_ID = 8076480934
 
 bot = Bot(token=API_TOKEN)
 dp = Dispatcher(bot)
